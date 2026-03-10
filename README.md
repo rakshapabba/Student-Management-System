@@ -93,24 +93,25 @@ Password: 1234
 ## Login Page
 <img width="1366" height="768" alt="login" src="https://github.com/user-attachments/assets/ccfb7605-498d-452e-a99d-4910eb772a4b" />
 
-
-![Login Page](https://drive.google.com/file/d/1zFeNJRWyCNPkDz1X3-5O8FcjdCcUZ9AC/view?usp=sharing)
-
 ## Dashboard
 
-![Dashboard](https://drive.google.com/file/d/19HZnnj_bxWyAogr9J-T6WsPVAGZ9P5tQ/view?usp=sharing)
+<img width="1366" height="768" alt="Dashboard" src="https://github.com/user-attachments/assets/00a43dbb-4666-45e0-920e-77fc3b27260d" />
+
 
 ## Students List
 
-![Students Page](https://drive.google.com/file/d/1jhd6qQc0X9FKzOeOGEtGw7fjpBSPS_Na/view?usp=sharing)
+<img width="1366" height="768" alt="Students" src="https://github.com/user-attachments/assets/1e4a9a0e-7bb8-4eaf-a06f-9f670e6d5fd7" />
+
 
 ## Add Student
 
-![Add Student](https://drive.google.com/file/d/1wo_pBVMGEvbBjn_Y2qxkiYCOPaF0HQ7x/view?usp=sharing)
+<img width="1366" height="768" alt="add_student" src="https://github.com/user-attachments/assets/9ce347bd-f7b8-4c50-8186-f7c455c31a22" />
+
 
 ## Edit Student
 
-![Edit Student](https://drive.google.com/file/d/1YiZv4QLbFQuLfCIDJkvhwlw-ltVGdYxZ/view?usp=sharing)
+<img width="1366" height="768" alt="edit_student" src="https://github.com/user-attachments/assets/01eadec5-1eab-473d-83be-d06f2a69b013" />
+
 
 ---
 
